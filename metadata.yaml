@@ -1,5 +1,8 @@
 _repo: Books-and-bidders-b-The-adventures-of-a-bibliophile_73272
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73272-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosenbach, A. S. W. (Abraham Simon Wolf)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39630
     wikipedia: https://en.wikipedia.org/wiki/A._S._W._Rosenbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73272#Books-and-bidders-b-The-adventures-of-a-bibliophile
 gutenberg_issued: '2024-03-27'
 gutenberg_type: Text
 identifiers:
